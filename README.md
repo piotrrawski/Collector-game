@@ -1,4 +1,4 @@
-#Collector Game - Javascript.
+# Collector Game - Javascript.
 
 Simple game in Vanilla JS.
 

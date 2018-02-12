@@ -2,6 +2,8 @@
 
 Simple game in Vanilla JS.
 
+https://piotrrawski.github.io/Collector-game/
+
 ## Instructions:
 1. You have to collect coins.
 
